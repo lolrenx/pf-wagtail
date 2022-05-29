@@ -1,6 +1,7 @@
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
+    font-family: 'Baloo Tamma 2', cursive;
     position: relative;
     min-height: 100%;
     font-size: 14px;
