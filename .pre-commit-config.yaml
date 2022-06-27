@@ -61,7 +61,7 @@ repos:
           - "--ignore=E203,E266,E501,W503,F403,F401,E402"
 
   - repo: https://github.com/rtts/djhtml
-    rev: "v1.5.0"
+    rev: "v1.5.1"
     hooks:
       - id: djhtml
       - id: djcss
